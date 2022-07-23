@@ -32,3 +32,15 @@
 		}
 	}
 }
+
+// it's only for github pages because it dosent work
+
+@media (min-width: 320px) {
+	.header {
+		height: 70vh;
+		background-image: url(../img/header-img.jpg);
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+}
